@@ -4,3 +4,4 @@ jinja2
 requests
 plotly
 python-multipart==0.0.12
+requests
