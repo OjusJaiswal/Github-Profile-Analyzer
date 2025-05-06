@@ -25,7 +25,7 @@ A web-based tool that analyzes a GitHub user's public repositories and visualize
 ## 📦 Setup Instructions
 
 ```bash
-git clone https://github.com/yourname/github-profile-analyzer.git
+git clone https://github.com/OjusJaiswal/github-profile-analyzer.git
 cd github-profile-analyzer
 python -m venv venv
 source venv/bin/activate  # or venv\\Scripts\\activate on Windows
